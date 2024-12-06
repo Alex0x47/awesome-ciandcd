@@ -1,6 +1,8 @@
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome CI and CD tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
+
+### [This is a fork from the cicdops/awesome-ciandcd repository, which doesn't seem to be maintained anymore. Feel free to add a tool here!]
 
 Written by [cicdops.com](http://www.cicdops.com)  
 
@@ -178,6 +180,7 @@ Build tools
 
 ## Static Check
 Software static check tools  
+* [StablePush](https://stablepush.dev)  The CI/CD tool that ensures your site complies with SEO and accessibility (wcag) standards
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) wiki page  
 * [coverity](http://www.coverity.com/)  Continually measure and improve code quality and security across your development organization  
 * [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop is an application that analyzes managed code assemblies (code that targets the .NET Framework common language runtime) and reports information about the assemblies, such as possible design, localization, performance, and security improvements  
@@ -188,11 +191,13 @@ Software static check tools
 
 ## Dynamic Check
 Software dynamic check tools  
+* [StablePush](https://stablepush.dev)  The CI/CD tool that ensures your site complies with SEO and accessibility (wcag) standards
 * [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page  
 * [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail  
 
 ## Performance Analysis
 Software performance analysis tools  
+* [StablePush](https://stablepush.dev)  The CI/CD tool that ensures your site complies with SEO and accessibility (wcag) standards
 * [performance tools wiki](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page    
 
 ## Coverage
@@ -201,6 +206,7 @@ Software testing coverage tools
 
 ## Testing
 Software testing framework and tools  
+* [StablePush](https://stablepush.dev)  The CI/CD tool that ensures your site complies with SEO and accessibility (wcag) standards
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page  
 * [softwareqatest](http://www.softwareqatest.com) FAQ page  
 * [qaforums](http://www.qaforums.com)  SQA Forums  
